@@ -8,7 +8,7 @@ const Button = (props) => {
         {props.buttonText}
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default Button;
